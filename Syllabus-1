@@ -1,0 +1,202 @@
+                              DSA Syllabus Sheet
+
+1. Basic Programs
+     -> If else statements
+     -> for loops 
+     -> Nested for loops
+     -> Patterns
+     -> Prime numbers
+     -> Armstrong
+     -> Palendrome
+     -> Perfect number
+     -> finding Square root
+     -> Reversing a number
+     -> Number equality
+     -> decimal to binary
+     -> Some Basic problems on Hackerrank , Leetcode , Coding Ninjas ,gfg
+
+2. Arrays
+    -> Introduction and Basics of Arrays
+    -> Problems on Arrays in Hackerrank , Leetcode , Coding Ninjas , gfg
+    -> Integrating with Java Collection Framework
+    -> Discussion about Time Complexity and Optimization Approaches
+
+3. Strings
+     -> Introduction and Basics of Strings
+     -> Problems on Strings
+     -> Integrating with Java Collection Framework
+     -> Discussion about Time Complexity and Optimization Approaches
+
+4. Stacks and Queues
+    -> Introduction and Implementation of Stacks
+    -> Introduction and Implementation of Queue
+    -> Circular Queue
+    -> Problems on Stack and Queues
+    -> Check for Balanced Expression
+    -> Prefix , Infix and Post fix conversions
+    -> Trapping Rain water
+    -> Implement Minstack
+    -> Next Greater Element
+    -> Preious Smaller Element
+    -> Sum of Subarray Minimum
+    -> Asteroid Collisons
+    -> Remove K digits 
+    -> Celebrity Problem
+
+5. Linked List
+   -> Introduction of Linked List
+   -> Types of Linked List
+          -> Singly Linked List and Implementations
+          -> Doubly Linked list and Implemenations
+          -> Circular Linked List
+   -> Adding and Removing elements to Linked List
+   -> Reversing a Singly and Doubly Linked List
+   -> Add 2 numbers in Linked List
+   -> Remove Nth Node from Linked List
+   -> Find Intersection point of Linked List
+   -> Find middle element of Linked List
+   -> Detect a loop in Linked List
+   -> Rotate a Linked List
+   -> Merge 2 Sorted Linked List
+   -> Flattening a Linked List
+  -> Design  Browser History
+
+6. Trees
+   -> Trees Introduction
+   -> Types of Trees
+   -> PreOrder , Inorder , Post Order (DFS)
+   -> Level Order Traversal (BFS)
+   ->  Iterative way of PreOrder , Inorder , Post Order
+   -> Implement PreOrder , Inorder , Post Order Using Stacks
+   -> Maximum Depth of Binary Tree
+   -> Balanced Binary Tree
+   -> Identical Trees
+   -> Vertical View , Top View , Left and Right View 
+   -> Maximum width of Binary Tree
+   -> Introduction to Binary Search Tree
+   -> Search in a Binary Tree
+   -> Ciel in a Binary Tree
+   -> Floor in a Binary Tree
+   -> Check for BST
+   -> Avl Tree
+   -> B Tree
+
+7. Graph
+   -> Introduction of Graph
+   -> Types of Graphs
+   -> Graph reprsentation and Implemenations
+   -> Connected Componenets
+   -> Bredth First Search
+   -> Depth First Search
+   -> Number of Islands
+   -> Number of Provinces
+   -> Flood Fill Algorithm
+   -> Detect a cycle in Directed Graph
+   -> Detect a cycle in Un directed Graph
+   -> Bipartite Graph
+   -> Topological Sort
+   -> Kahns Algorithm
+   -> Alien Dictionary
+   -> Dikstra Alogorithm using Priority Queue
+   -> Dikstra Algorithm using Set
+   -> Belllman ford Algorithm
+   -> Prims Algorithm
+   -> Kruskals Algorithm
+
+8. Searching and Sorting
+    -> Linear Search 
+    -> Binary Search
+    -> Selection Sort
+    -> Insertion Sort
+    -> Bubble Sort
+    -> Heap Sort
+    -> Quick Sort
+    -> Merge Sort
+    -> Heap Sort
+    -> Radix sort
+
+9. Binary Search and its Programs
+   -> Introduction of Binary Search 
+   -> Implemenation of Binary Search 
+   -> Implement Lower Bound and Upper Bound
+   -> Search and Element in Rotated Sorted Array I
+   -> Search and Element in Rotated Sorted Array II
+   -> Minimum element in Roated Sorted Array
+   -> Find Out How Many Times Array is Rotated
+   -> Single element in Rotated Sorted Array
+   -> Finding a Peak element
+   -> Finding a Square root of an element using Binary Search
+   -> Kth Missing element
+
+10. Sliding Window and 2 Pointer Algorithm 
+       ->total number of substrings having unique characters					
+       ->longest substring having unique character					
+       ->total number of substrings having atmost k unique character					
+       ->longest substring having atmost k unique chracters					
+       ->longest substring having exactly k unique charcaters					
+       ->total no of substrings having exactly k unique charcaters					
+       ->total no of substring having at least k unique characters					
+       ->longest substring having at least k unique charcaters	
+       -> Problems on 2 Pointers
+       -> 2 Sum , 3 Sum ,4 Sum
+
+11. Recursion
+    -> Introduction to Recursion
+    -> Paramerized and Functional Recursion
+    -> Multiple Recursion call
+    -> Combination Sum
+    -> Subset Sum
+    -> Permutations of String
+
+12. Dynamic Programming
+     -> Introduction
+     -> Different Approaches
+     -> Optimization with Respect to Recursion
+     -> Climbing Stairs
+     ->Frog Jump
+     -> House Robber
+     ->Grid Unique Paths
+     ->Subset Sum Problem
+     -> Partition Problems
+     -> Knapsack
+     -> Minimum Coins
+     -> Coin change
+     -> Rod Cutting
+     -> Longest common Subsequence
+     -> Minimum insertions
+     ->Edit distance
+     -> Best Time to Buy and Sell Stock
+     
+13. Back Tracking
+     -> Introduction
+     -> Combination Sum 
+     -> Subset Sum
+     -> Print Permuatations
+     -> N Queens
+     -> Sudoku Solver
+     -> Rat in a Maze
+14. Trie
+    ->Implemenation of Trie
+    -> Longest word with common prefix
+    -> Number of Distinct Substrings
+    -> Maximum xor
+15. Heap
+    -> Heap Introduction and Identification
+    ->Kth Smallest Element
+    -> Sort a K Sorted Array
+    -> K closest Numbers
+    -> Frequency Sort
+    -> Sum of elements in k points
+ 
+      
+
+
+
+
+
+   
+    
+
+
+
+
